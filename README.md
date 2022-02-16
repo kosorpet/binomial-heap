@@ -1,2 +1,2 @@
 # binomial-heap
-Code written for courses while studying at Czech Technical University 
+A binomial heap is a data structure that acts as a priority queue but also allows pairs of heaps to be merged. It is important as an implementation of the mergeable heap abstract data type, which is a priority queue supporting merge operation. It is implemented as a heap similar to a binary heap but using a special tree structure that is different from the complete binary trees used by binary heaps.
